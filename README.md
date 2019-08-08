@@ -1,5 +1,5 @@
 # UV-Copy-MaxScript
-swap easily UV Channels in 3ds Max with this MaxScript
+Swap easily UV Channels in 3ds Max with this MaxScript
 
 
 Installation
@@ -20,12 +20,3 @@ This script adds a single button to your Interface. When you open it you can:
 
 + Select the object with multiple UV Channels
 + Select the channel you want to be copied and press copy
-
-LEGAL:
-This is free software released into the public domain.
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any means.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-AND NO SUPPORT.
-author 3d-io GmbH, 2019
