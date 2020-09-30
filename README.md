@@ -20,3 +20,5 @@ This script adds a single button to your Interface. When you open it you can:
 
 + Select the object with multiple UV Channels
 + Select the channel you want to be copied and press copy
+
+![Explanation Video](UV-Copy_tut.gif)
