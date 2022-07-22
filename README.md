@@ -11,8 +11,8 @@ Customize ->
 		       Category: -> 	--3d-io--
 
 System Requirements
-A system with 3ds max 9, 2008 or 2009 till 2020 installed.
-We have only tested this script on max 2015 -> 2020.
+A system with 3ds Max installed.
+We have only tested this script on max 2020 -> 2023 but it should work with older versions.
 
 
 Using this script
